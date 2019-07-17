@@ -13,7 +13,7 @@ var (
 )
 
 // difficulty
-const targetBits = 24
+const targetBits = 2
 
 // ProofOfWork ProofOfWork
 type ProofOfWork struct {
