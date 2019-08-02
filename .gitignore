@@ -1,4 +1,3 @@
-blockchain_lt.db
-blockchain_lt.db.lock
-simple-blockchains.exe
+*.db
+*.exe
 simple-blockchains
